@@ -48,7 +48,7 @@ README.md                # Project documentation
 
 Run the main script to extract text from a PDF, generate embeddings, and store them in Milvus:
 ```bash
-python nl2sql.py
+python pdf_to_milvus_embeddings.py
 ```
 
 ### Chatbot
